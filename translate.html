@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+ sana-anim{
+0%{transform:translate(0px,0px);}
+100%{transform:translate(100px,0px);}
+}
+.abc{
+height:100px;
+width:100px;
+background-color:orange;
+border-style:dotted;
+animation:sana-anim 2s 0s 50alternate;
+}
+sp-anim{
+0%{transform:translate(100px,0px);}
+100%{transform:translate(0px,0px);}
+}
+.xyz{
+          height:100px;
+          width:100px;
+          background-color:red;
+border-style:solid;
+border-color:green;
+
+animation:sp-anim 2s 0s 100alternate;
+}
+</style>
+</head>
+<body>
+<div class="abc"></div>
+<div class="xyz"></div>
+</body>
+</html>

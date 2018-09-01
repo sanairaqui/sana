@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+.room1{
+display:inline-block;
+height:100px;
+width:100px;
+background-color:green;
+}
+     .room2{
+display:inline-block;
+height:100px;
+width:100px;
+background-color:red;
+}
+.room3{
+height:100px;
+width:100px;
+background-color:yellow;
+display:inline-block;
+}
+</style>
+</head>
+<body>
+<div class="room1"></div>
+<div class="room2"></div>
+<div class="room3"></div>
+</body>
+</html>

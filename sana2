@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+.sana{
+width:100px;
+height:100px;
+margin:5px;
+background-color:green;
+border-style:dotted;
+border-color:red;
+display:inline-block;
+}
+</style>
+</head>
+<body>
+<h1>SANA</h1>
+<div class="sana">
+</div>
+<div class="sana"></div>
+<div class="sana"></div>
+<div class="sana"></div>
+<div class="sana"></div>
+<div class="sana"></div>
+</body>
+</html>
